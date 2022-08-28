@@ -1,0 +1,183 @@
+Nombre del alimento,Y: Cantidad de calorias (kcal),X1: Cantidad de grasas (gr),X2: Cantidad de proteinas (gr),X3: Cantidad de carbohidratos (gr)
+Barra Kellogs,95,3,1,17
+Pan,253,3,9,52
+Queso amarillo,60,5,1,2
+Papas caseras,150,8,2,17
+Tortilla de harina,90,4,2,12
+Salchicha,57,4,4,2
+Frapuccino,150,1,6,33
+Chettos,119,6,2,15
+Muffin,158,6,5,23
+Tortilla de maiz,218,3,6,45
+Winnie,85,5,5,2
+Pan de hot dog,156,3,6,29
+Salchicha para asar,155,9,9,10
+Elote,50,1,2,11
+Birria,133,4,23,1
+Camaron,41,1,9,1
+Aguacate,160,15,2,9
+Pan de hamburguesa,198,5,7,34
+Papas francesas,120,6,1,16
+Queso Philadelphia,90,8,1,1
+Cochinita pibil,80,3,11,2
+Choco milk,220,8,8,29
+Galletas,180,7,2,27
+Chocokrispis,149,1,2,34
+Asadero,259,28,23,3
+Palomitas,494,18,5,45
+Ruffles,110,3,2,19
+Doritos,140,8,2,16
+Torta de lomo,400,8,24,37
+Chocorroles,337,6,1,24
+Pastel de nuez,440,30,5,39
+Burrito de frijoles,123,5,21,73
+Tostadas,512,22,13,54
+Hamburguesa,152,1,20,2
+Tacos de tripitas,190,11,10,13
+Comida china,250,13,10,26
+Flan,160,4,5,28
+Papas,154,10,2,14
+Hotdog,100,11,5,3
+Canape,320,20,10,85
+Pastel de carne,177,8,6,18
+Cereal,361,7,9,57
+Huevos,282,12,14,2
+Leche Lala,154,8.3,7.8,12
+Nesquik polvo chocolate,106.92,1,1.34,9.22
+Frijoles La Sierra,92,4.4,3.6,9.6
+Sopa de Coditos,345.6,1.6,11.6,71.2
+Pure de tomate La Costena,45,1,2,8
+Pure de papa instantaneo,245.82,10.6,5.44,32.16
+Pan dulce de panaderia,228,3,6,44
+Mayonesa,80,8.4,0.2,0.4
+Salchicha de pavo,170,11.8,11.4,4.6
+Platano,105,0.39,1.29,27
+Papas a la francesa,410,18,4,58
+Limonada,198,0.2,0.34,51.74
+Salsa ranch,73,7.71,0.15,1
+Palomitas de maiz,310,18,5,32
+Leche Santa Clara,163.8,2.4,14.4,21.12
+Garbanzos,164,2.59,8.86,27.42
+Tomate,11,0.125,0.54,2.41
+Hotcakes,216,1.2,7.2,37.8
+Manzana natural,144,0.46,0.72,38.12
+Yogurt Lala natural,186,6.2,9,23.6
+Ensalada de pollo,218,11.86,34.18,17.55
+Quesadilla,171,9.9,9.5,10.53
+Tortillas de maiz,23,0.3,0.61,4.78
+Doritos nacho,274,14,5,32
+Atun en aceite,117,2.83,21,1.8
+Barra de granola,380,14,6,58
+Tamal de carne,141,8.06,6.13,11.07
+Jugo de naranja natural,224,1,3.48,51.58
+Pera,96,0.2,0.63,25.66
+Caldo de pollo,12,0.29,0.95,1.51
+Dona glaseada,192,10.3,2.34,22.86
+Macarrones con queso,250,12,10,16
+Pure de papa,210,7.43,3.78,33.01
+Huevos revueltos,199,15,13,2
+Dulce de leche,60,1,1,11
+Sincronizada,332,18,26,30
+Gansito,200,8,2,29
+Frappe Starbucks,410,15,5,65
+Sandwich de jamon,275,4,16,46
+Cuernito,190,9,4,23
+Caldo de res,285,5,40,20
+Veggies,160,15,1,7
+Jugo de naranja,112,1,2,26
+Burrito de frijoles queso,205,10,7,25
+Hamburguesa de res,515,9,13,30
+Galleta quacker,130,5,3,19
+Kitkat,210,11,3,27
+Muffin chocolate ,210,6,3,36
+Negrito,252,10,3,37
+Burrito arrachera,300,16,12,26
+Tostitos fuego,140,7,2,19
+Mango,99,1,1,25
+Sabritas fuego,154,10,2,15
+Cacahuates,585,50,24,22
+Enchiladas suizas,290,6,12,46
+Bubulubu,131,3,1,26
+Avena,389,7,17,69
+Verdolagas,303,18,19,18
+Spaghetti,359,1,12,74
+Pulpo,139,1,25,3
+Croquetas de pollo,198,16,5,8
+Albondigas,197,9,21,8
+Calabazas con queso,200,20,21,9
+Barra de chocolate,150,7,1,20
+Ropa vieja,594,32,53,27
+Cinnamon,247,1,3,80
+Puerco en salsa verde,151,5,19,3
+Burrito de asado,579,23,27,64
+Fresas,49,0.46,1.02,11.67
+Arandanos,83,0.48,1.07,21.01
+Huevo,308,23.2,21,23.2
+Arroz,130,0.28,2.69,28.1
+Pan tostado,207.2,3.8,9.1,35
+Pescado,206,11.42,18.15,6.71
+Macarrones,220,1.29,8.06,42.95
+Huevo revuleto,530,41,34.5,5.3
+Apio,11,0.13,0.51,2.37
+Espinacas,23,0.39,2.86,3.63
+Pastel con fruta,263,13.14,3.83,33.94
+Burrito de pollo,271,8.31,23.49,24.34
+Sandwich jamon,339,17.54,18.76,25.75
+Manzana,52,0.17,0.26,13.8
+Leche entera,61,3.27,3.15,4.78
+yogurth ,61,3.25,3.47,4.66
+lechuga,5,0.053,0.45,1.03
+zanahoria,25,0.146,0.567,5.84
+platano,152,0.5,1.9,38.8
+pure de papa,222.5,7,4.3,36.8
+crema de cacahuate,176.7,15,7.2,6.5
+helado,508,28,6,57.8
+frijoles,66,1,4.6,12.8
+chocolate,579,38.3,6.12,52.4
+brownie,428,26.7,5.7,46.1
+waffles,291,14.1,7.9,32.9
+jugo de limon,60,0.16,1.01,20.3
+melon,36,0.14,0.54,9
+sandia,30,0.15,0.61,7.55
+milanesa,314,16.9,25,14.6
+arroz frito,130,0.3,2.8,27
+enchiladas suizas ,319,18.8,9.6,28.5
+burrito frijoles,447,13.5,14.06,71.44
+cafe con leche,135,5.51,8.81,12.36
+arroz con pollo,299,11.88,11.32,38.01
+flautas,334,11.7,13.43,42.6
+capuccino,97,5.6,5.9,8.7
+pollo en salsa,120,4.72,16.31,2.51
+ensalada,135,11.6,3.64,5.52
+Flautas de pollo,319,22.51,12.32,17.81
+milanesa de res,314,16.69,24.79,14.64
+nachos,480,24,12,57
+burrito de carne ,430,20,26.87,33.7
+higado,135,3.63,20.36,3.89
+pan frances,356,18.76,10.34,36.04
+croissant,231,12,4.67,26.11
+barra de avena,90,1.07,2.1,16.5
+avena instantanea,135,2.6,3,24.9
+mandarina,37,0.22,0.57,9.34
+papaya,55,0.2,0.85,13.75
+pavo,60,1,10,2
+club sandwich,80,3,3,7
+queso,371,24,19,2
+queso cotage,81,2.27,10.45,4.76
+cerezas,333,0.73,1.25,80.45
+higos,74,0.3,0.75,19.18
+durazno,239,0.76,3.16,61.33
+pina,50,0.12,0.54,13.12
+daiquiri,186,0.06,0.06,6.94
+steak,110,4,15,4
+hamburguesa de carne,231,12,23,30
+helado de vainilla,145,7.92,2.53,16.99
+tocino,27,2.09,1.85,0.07
+rollo de arroz,20,0.07,0.3,4.35
+tamal de pollo,126,6.29,6.42,11.07
+fettuccine,220,1.29,8.07,42.95
+pasta con verdura,310,3.67,11.18,57.71
+mojito,217,0.04,0.14,24.94
+boneless,197,9,15,14
+Bola de arroz,260,6,25,25
+Enchiladas potosinas,315,7,15,48
