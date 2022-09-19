@@ -18,6 +18,6 @@ comparison = pd.DataFrame(predictions)
 comparison['y_real'] = y
 comparison['y_predicted'] = comparison[0]
 
-print(comparison[['y_real','y_predicted']])
+print(comparison[['y_real','y_predicted']].head(10))
 
 print('RMSE: ', model.rmse(y))
