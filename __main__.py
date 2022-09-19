@@ -12,6 +12,12 @@ model = multipleLinearRegression()
 
 model.fit(y,X)
 
-print('Predicciones: ', model.predict(X))
+predictions = model.predict(X)
+
+comparison = pd.DataFrame(predictions)
+comparison['y_real'] = y
+comparison['y_predicted'] = comparison[0]
+
+print(comparison[['y_real','y_predicted']])
 
 print('RMSE: ', model.rmse(y))
